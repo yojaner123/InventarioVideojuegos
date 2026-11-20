@@ -4,7 +4,7 @@
 
 - **Proyecto:** Inventario de Videojuegos
 - **Estudiante:** Yojaner Sanjuan
-- **Asignatura:** Programación con C# y .NET — Parcial final
+- **Asignatura:** Electiva de profundizacion
 - **Descripción:** aplicación de escritorio para registrar y administrar una colección personal de videojuegos.
 - **Problema que resuelve:** llevar el control de qué juegos se tienen, en qué plataforma, cuánto costaron y si ya se jugaron, sin depender de notas sueltas u hojas de cálculo.
 - **Objetivo principal:** aplicar POO, Avalonia UI y ADO.NET con SQLite en una aplicación con CRUD completo y datos persistentes.
