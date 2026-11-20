@@ -78,7 +78,7 @@ InventarioVideojuegos/
 1. Instalar el **SDK de .NET 8** (https://dotnet.microsoft.com/download). Verificar con `dotnet --version`.
 2. Clonar el repositorio:
    ```bash
-   git clone https://github.com/yojaner321/InventarioVideojuegos.git
+   git clone https://github.com/yojaner123/InventarioVideojuegos.git
    cd InventarioVideojuegos
    ```
 3. Restaurar los paquetes NuGet declarados en el `.csproj`:
